@@ -1,10 +1,7 @@
-# TurevAlici
-TurevAlan
-İstenilen değerde basit düzeydeki fonksiyonun türevini alır ve hesaplar.
+TurevAlan takes the derivative of the simple level function at the desired value and calculates it.
 
-    
--Fonksiyon kullanicidan girdi okuyarak kullanicinin verdigi degerde turev hesaplar. 
+-The function calculates the derivative given by the user by reading the input from the user.
 
--Logaritma,Trigonotmetrik,Polinom başlangıç düzeyindeki fonksiyonlarının turevini ve degerini hesaplayabilir,
+-Calculate the derivative and value of Logarithm, Trigonotmetric, Polynomial initial level functions,
 
--Kullanicidan deger okur ve yazdirir ilerdi düzey degisken degistirme yapilabilen turevleri alamaz.
+- Reads value from the user and prints advanced level cannot receive variable swappable varieties.
